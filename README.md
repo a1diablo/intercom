@@ -16,6 +16,8 @@ Run this to run the tests
 python -m unittest
 ```
 
+Full options:
+```
 usage: nearby_customers.py [-h][--config config] [--customers CUSTOMERS]
 
 Find nearby customers from office
@@ -24,6 +26,7 @@ optional arguments:
 -h, --help show this help message and exit
 --config CONFIG Path of the config file to be used.
 --customers CUSTOMERS Path of the customers file to be used.
+```
 
 Sample config.json already checked in
 
