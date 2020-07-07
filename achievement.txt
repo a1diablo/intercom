@@ -1,0 +1,15 @@
+I'm not sure if pride is the right word but it definitely feels
+ good to finish some programming challenges. The ones which keep
+ us awake the longest or the ones which conquer our dreams are
+ often the ones remembered for long, for good or bad. During my
+ experience as a Software Engineer at Bluestacks, I got to relish
+ many such experiences but the one I fondly remember was about
+ building a video conferencing app in the timeline of a month.
+ Not only the WebRTC framework seemed daunting but the whole video
+ communication thing seemed far from the programming domains I was
+ familiar with, along with the realization that I'd to do it on iOS
+ which was a new learning track as well. The technical complexity
+ encountered, helped to build an approach towards understanding
+ and building complex pieces of software and the ability to
+ communicate with our manager over the same application in the US
+ gave a blissful closure to the process.
